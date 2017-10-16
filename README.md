@@ -1,2 +1,3 @@
-# audiomp3-web
-Rodando Audio MP3 na Web e em dispositivos mobile
+# Audio MP3 - Web/Mobile
+
+* Executando audio mp3 na web e em dispositivos móveis

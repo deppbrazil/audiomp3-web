@@ -1,0 +1,40 @@
+html {
+	background-color: black;
+	overflow: hidden;
+	margin: 0;
+	width: 100vw;
+	height: 100vh;
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	align-items: center;
+	font-size: 10px;
+	line-height: 10px;
+	font-family: arial black;
+}
+
+.container {
+	background-color: silver;
+	width: 80vw;
+	height: 80vh;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
+
+.title {
+	font-size: 3em;
+	line-height: 30px;
+}
+
+.subtitle {
+	font-size: 2em;
+	line-height: 20px;
+}
+
+.play {
+	margin-top: 5%;
+	margin-bottom: 5%;
+	cursor: pointer;
+}
