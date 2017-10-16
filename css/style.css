@@ -1,59 +1,59 @@
 html {
-	background-color: black;
-	overflow: hidden;
-	margin: 0;
-	width: 100vw;
-	height: 100vh;
-	display: flex;
-	flex-direction: row;
-	justify-content: center;
-	align-items: center;
-	font-size: 10px;
-	line-height: 10px;
-	font-family: arial black;
-	color: white;
+    background-color: black;
+    overflow: hidden;
+    margin: 0;
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    font-size: 10px;
+    line-height: 10px;
+    font-family: arial black;
+    color: white;
 }
 
 .container1 {
-	background-color: #252525;
-	width: 80vw;
-	height: 37.5vh;
-	margin-bottom: 2.5vh;
-	display: flex;
-	flex-direction: column;
-	justify-content: center;
-	align-items: center;
+    background-color: #252525;
+    width: 80vw;
+    height: 37.5vh;
+    margin-bottom: 2.5vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
 }
 
 .container2 {
-	background-color: #2d2d2d;
-	width: 80vw;
-	height: 37.5vh;
-	margin-top: 2.5vh;
-	display: flex;
-	flex-direction: row;
-	justify-content: center;
-	align-items: center;
+    background-color: #2d2d2d;
+    width: 80vw;
+    height: 37.5vh;
+    margin-top: 2.5vh;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
 }
 
 .title {
-	font-size: 4.5vw;
-	line-height: 5vh;
+    font-size: 4.5vw;
+    line-height: 5vh;
 }
 
 .subtitle {
-	font-size: 3.6vw;
-	line-height: 5vh;
+    font-size: 3.6vw;
+    line-height: 5vh;
 }
 
 button {
-	margin: 1%;
-	cursor: pointer;
-	width: 20vw;
-	height: auto;
-	font-family: arial black;
-	font-size: 3vw;
-	line-height: 10vh;
-	background-color: #1d1d1d;
-	color: white;
+    margin: 1%;
+    cursor: pointer;
+    width: 20vw;
+    height: auto;
+    font-family: arial black;
+    font-size: 3vw;
+    line-height: 10vh;
+    background-color: #1d1d1d;
+    color: white;
 }
