@@ -1,0 +1,26 @@
+{
+  "name": "audiomp3-web",
+  "version": "1.0.0",
+  "description": "audio web",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deppbrazil/audiomp3-web.git"
+  },
+  "keywords": [
+    "media",
+    "audio",
+    "web",
+    "mp3",
+    "ogg"
+  ],
+  "author": "Mir Carvalho",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/deppbrazil/audiomp3-web/issues"
+  },
+  "homepage": "https://github.com/deppbrazil/audiomp3-web#readme"
+}
