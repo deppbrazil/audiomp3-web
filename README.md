@@ -1,3 +1,3 @@
-# Audio MP3 - Web/Mobile
+# Media MP3 and OGG for Web #
 
-* Executando audio na web e em dispositivos móveis em formatos mp3 e ogg.
+* Recommended format for audio media for web and mobile

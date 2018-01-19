@@ -1,8 +1,8 @@
 var audio = document.getElementById("audio-mp3-ogg");
-function playaudio() {
-    audio.play();
-}
+    function playaudio() {
+        audio.play();
+    }
 
-function pauseaudio() {
-    audio.pause();
-}
+    function pauseaudio() {
+        audio.pause();
+    }
